@@ -1,11 +1,10 @@
-<h1 style="text-align: center;">Projeto Quest #01</h1>
+<h1 align="center">Projeto Quest #01</h1>
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="./src/images/Screenshot_1.png" alt="imagem final do projeto" >
 </div>
 
 ## Sobre
-- Este foi o meu primeiro projeto onde testei minhas habilidades e dominâncias sobre Html e Css.
-- Apesar das dúvidas e dificuldades consegui um resultado organizado e bem feito.
+- Projeto que simula um site feito para registrar usuarios de uma rede social 
 
 ## Tecnologias Utilizadas 
 - HTML 
